@@ -9,7 +9,7 @@
 
 @section('container')
     <div class="container">
-
+        {{-- tes ini about --}}
         <!-- Page Heading/Breadcrumbs -->
         <h1 class="mt-4 mb-3">About
         </h1>
